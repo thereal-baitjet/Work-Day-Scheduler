@@ -9,6 +9,8 @@ when you enter a task it saves to your local storage. its color cotated to past 
 
 enter this url https://thereal-baitjet.github.io/Work-Day-scheduler/
 
+![snapshot](https://github.com/thereal-baitjet/Work-Day-scheduler/blob/main/assets/2021-03-13-17-40-thereal-baitjet.github.io.png)
+
 ## credits 
 
 Ricardo Russ  https://www.linkedin.com/in/ricardoljruss
